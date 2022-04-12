@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649766388 source:d:\programokk\codeblocks\5gyak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<omp.h>
+
